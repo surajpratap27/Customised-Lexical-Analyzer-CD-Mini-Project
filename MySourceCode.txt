@@ -1,0 +1,7 @@
+#import <inputoutput>
+ main() {
+    
+    number A , B;
+    console_in >> A >> B;
+    console_out << A * B * 9;
+}

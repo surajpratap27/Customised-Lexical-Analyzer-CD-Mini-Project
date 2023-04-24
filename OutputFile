@@ -1,0 +1,29 @@
+	 Token   No :01  |            #  ------->  |           Special Symbol    
+	 Token   No :02  |       import  ------->  |  Pre-Processor Directive    
+	 Token   No :03  |            <  ------->  |                 Operator , LSHFT    
+	 Token   No :04  |   inputoutput  ------->  |                  Library    
+	 Token   No :05  |            >  ------->  |                 Operator , RSHFT    
+	 Token   No :06  |         main  ------->  |                 Keywords    
+	 Token   No :07  |            (  ------->  |           Special Symbol    
+	 Token   No :08  |            )  ------->  |           Special Symbol    
+	 Token   No :09  |            {  ------->  |           Special Symbol    
+	 Token   No :10  |       number  ------->  |                 Keywords    
+	 Token   No :11  |            A  ------->  |                 Variable ,  POINTER TO SYMBOL TABLE    
+	 Token   No :12  |            ,  ------->  |           Special Symbol    
+	 Token   No :13  |            B  ------->  |                 Variable ,  POINTER TO SYMBOL TABLE    
+	 Token   No :14  |            ;  ------->  |           Special Symbol    
+	 Token   No :15  |   console_in  ------->  |                 Keywords    
+	 Token   No :16  |           >>  ------->  |                 Operator , INS    
+	 Token   No :17  |            A  ------->  |                 Variable ,  POINTER TO SYMBOL TABLE    
+	 Token   No :18  |           >>  ------->  |                 Operator , INS    
+	 Token   No :19  |            B  ------->  |                 Variable ,  POINTER TO SYMBOL TABLE    
+	 Token   No :20  |            ;  ------->  |           Special Symbol    
+	 Token   No :21  |   console_out  ------->  |                 Keywords    
+	 Token   No :22  |           <<  ------->  |                 Operator , EXTR    
+	 Token   No :23  |            A  ------->  |                 Variable ,  POINTER TO SYMBOL TABLE    
+	 Token   No :24  |            *  ------->  |                 Operator , MUL    
+	 Token   No :25  |            B  ------->  |                 Variable ,  POINTER TO SYMBOL TABLE    
+	 Token   No :26  |            *  ------->  |                 Operator , MUL    
+	 Token   No :27  |            9  ------->  |                  Integer    
+	 Token   No :28  |            ;  ------->  |           Special Symbol    
+	 Token   No :29  |            }  ------->  |           Special Symbol    
